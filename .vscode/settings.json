@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "def.h": "c",
+    "packet.h": "c",
+    "menu.h": "c",
+    "login.h": "c",
+    "rdwrn.h": "c",
+    "utsname.h": "c",
+    "signal.h": "c",
+    "string.h": "c",
+    "unistd.h": "c",
+    "stdlib.h": "c",
+    "types.h": "c",
+    "pthread.h": "c",
+    "dirent.h": "c",
+    "time.h": "c",
+    "threadpool.h": "c",
+    "process.h": "c",
+    "bio.h": "c",
+    "regex.h": "c",
+    "stdio.h": "c"
+  }
+}
