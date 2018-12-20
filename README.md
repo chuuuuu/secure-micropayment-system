@@ -4,8 +4,7 @@ this is the socket programming homework for Computer Network.
 use the following command to compile the client & server.
 
 ```
-chmod +x ./setup
-./setup
+make
 ```
 
 #CLIENT
