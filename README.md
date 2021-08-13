@@ -1,22 +1,24 @@
-this is the socket programming homework for Computer Network.
+# Secure Micropayment System
 
-#COMPILE
-use the following command to compile the client & server.
+This is the socket programming homework for Computer Network. see more [spec](./spec.pdf)
+
+## build
+
+to build the client & server, run
 
 ```
 make
 ```
 
-#CLIENT
-use the following command to run client.
+## client
 
 ```
-./client/client [ip] [port]
+./client [ip] [port]
 ```
 
-#SERVER
-use the following command to run server. (PEM pass phrase: 1234)
+## server
 
-```
-./server/server
+```bash
+# PEM pass phrase: 1234
+./server
 ```
